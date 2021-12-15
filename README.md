@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/aemilius-morgan/
 Full-stack developer: true
 
 I have experience with React, NodeJS, PostgreSQL, HTML and CSS.
-I can pick up most tools readily, but I have use Netlify and Heroku for hosting, 
+I can pick up most tools readily, but I have used Netlify and Heroku for hosting, 
 and I have used Postman for data base activity.
 Test driven development is important to me to keep my projects on task and working properly.
 
